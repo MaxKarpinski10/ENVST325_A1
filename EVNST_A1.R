@@ -30,5 +30,11 @@ highPeaks[1,]
 
 # In-class Prompts Questions ----
 
+# Prompt 1 The average snow depth over the past several days was 2.5, 3, 5, and 4.5 inches. 
+# Create a vector of observations and convert these observations to centimeters.
+Snow_depth_in = c(2.5,3,5,4.5)
+Snow_depth_cm = Snow_depth_in * 2.54 
+Snow_depth_cm[]
+
 
 # Homework ----
